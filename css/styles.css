@@ -1,0 +1,11 @@
+#doNotShow {
+  display: none;
+}
+
+.answerStyle {
+  color: red;
+}
+
+#nameSpan {
+  color: blue;
+}
